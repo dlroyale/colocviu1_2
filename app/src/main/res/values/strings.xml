@@ -3,4 +3,6 @@
     <string name="navigate_to_secondary_activity">Navigate to Secondary Activity</string>
     <string name="press_me">press me</string>
     <string name="press_me_too">press me too</string>
+    <string name="add_button">ADD</string>
+    <string name="compute_button">COMPUTE</string>
 </resources>

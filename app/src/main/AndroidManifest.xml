@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PracticalTest01">
         <activity
-            android:name=".PracticalTest01MainActivity"
+            android:name=".Colocviu1_2MainActivity"
             android:exported="true"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
